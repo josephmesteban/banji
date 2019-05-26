@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Banji</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Features</string>
+    <string name="tab_text_3">Recipes</string>
+    <string name="tab_text_4">Magazines</string>
+    <string name="title_activity_main">Banji</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Banji: 10,000 Flavors</string>
+    <string name="nav_header_subtitle">Fictitious Food Magazine</string>
+    <string name="nav_header_desc">Banji Food Magazine</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
